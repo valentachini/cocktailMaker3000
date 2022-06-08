@@ -1,0 +1,159 @@
+body {
+    background-color: #FDF5FF;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' viewBox='0 0 100 60'%3E%3Cg %3E%3Crect fill='%23FDF5FF' width='11' height='11'/%3E%3Crect fill='%23fcf4ff' x='10' width='11' height='11'/%3E%3Crect fill='%23fcf4ff' y='10' width='11' height='11'/%3E%3Crect fill='%23fbf3ff' x='20' width='11' height='11'/%3E%3Crect fill='%23faf3ff' x='10' y='10' width='11' height='11'/%3E%3Crect fill='%23faf2ff' y='20' width='11' height='11'/%3E%3Crect fill='%23f9f2ff' x='30' width='11' height='11'/%3E%3Crect fill='%23f8f1ff' x='20' y='10' width='11' height='11'/%3E%3Crect fill='%23f7f0ff' x='10' y='20' width='11' height='11'/%3E%3Crect fill='%23f6f0ff' y='30' width='11' height='11'/%3E%3Crect fill='%23f5efff' x='40' width='11' height='11'/%3E%3Crect fill='%23f4efff' x='30' y='10' width='11' height='11'/%3E%3Crect fill='%23f3eeff' x='20' y='20' width='11' height='11'/%3E%3Crect fill='%23f2eeff' x='10' y='30' width='11' height='11'/%3E%3Crect fill='%23f1edff' y='40' width='11' height='11'/%3E%3Crect fill='%23f0edff' x='50' width='11' height='11'/%3E%3Crect fill='%23efecff' x='40' y='10' width='11' height='11'/%3E%3Crect fill='%23edecff' x='30' y='20' width='11' height='11'/%3E%3Crect fill='%23ececff' x='20' y='30' width='11' height='11'/%3E%3Crect fill='%23ebebff' x='10' y='40' width='11' height='11'/%3E%3Crect fill='%23eaebff' y='50' width='11' height='11'/%3E%3Crect fill='%23e8eaff' x='60' width='11' height='11'/%3E%3Crect fill='%23e7eaff' x='50' y='10' width='11' height='11'/%3E%3Crect fill='%23e6eaff' x='40' y='20' width='11' height='11'/%3E%3Crect fill='%23e4e9ff' x='30' y='30' width='11' height='11'/%3E%3Crect fill='%23e3e9ff' x='20' y='40' width='11' height='11'/%3E%3Crect fill='%23e1e9ff' x='10' y='50' width='11' height='11'/%3E%3Crect fill='%23e0e8ff' x='70' width='11' height='11'/%3E%3Crect fill='%23dee8ff' x='60' y='10' width='11' height='11'/%3E%3Crect fill='%23dce7ff' x='50' y='20' width='11' height='11'/%3E%3Crect fill='%23dbe7ff' x='40' y='30' width='11' height='11'/%3E%3Crect fill='%23d9e7ff' x='30' y='40' width='11' height='11'/%3E%3Crect fill='%23d7e7ff' x='20' y='50' width='11' height='11'/%3E%3Crect fill='%23d6e6ff' x='80' width='11' height='11'/%3E%3Crect fill='%23d4e6ff' x='70' y='10' width='11' height='11'/%3E%3Crect fill='%23d2e6ff' x='60' y='20' width='11' height='11'/%3E%3Crect fill='%23d0e5ff' x='50' y='30' width='11' height='11'/%3E%3Crect fill='%23cee5ff' x='40' y='40' width='11' height='11'/%3E%3Crect fill='%23cce5ff' x='30' y='50' width='11' height='11'/%3E%3Crect fill='%23cbe5ff' x='90' width='11' height='11'/%3E%3Crect fill='%23c9e4ff' x='80' y='10' width='11' height='11'/%3E%3Crect fill='%23c7e4ff' x='70' y='20' width='11' height='11'/%3E%3Crect fill='%23c5e4ff' x='60' y='30' width='11' height='11'/%3E%3Crect fill='%23c3e4ff' x='50' y='40' width='11' height='11'/%3E%3Crect fill='%23c1e3ff' x='40' y='50' width='11' height='11'/%3E%3Crect fill='%23bfe3ff' x='90' y='10' width='11' height='11'/%3E%3Crect fill='%23bde3ff' x='80' y='20' width='11' height='11'/%3E%3Crect fill='%23bbe3ff' x='70' y='30' width='11' height='11'/%3E%3Crect fill='%23b9e2fe' x='60' y='40' width='11' height='11'/%3E%3Crect fill='%23b7e2fe' x='50' y='50' width='11' height='11'/%3E%3Crect fill='%23b5e2fd' x='90' y='20' width='11' height='11'/%3E%3Crect fill='%23b2e2fd' x='80' y='30' width='11' height='11'/%3E%3Crect fill='%23b0e2fc' x='70' y='40' width='11' height='11'/%3E%3Crect fill='%23aee1fb' x='60' y='50' width='11' height='11'/%3E%3Crect fill='%23ace1fb' x='90' y='30' width='11' height='11'/%3E%3Crect fill='%23aae1fa' x='80' y='40' width='11' height='11'/%3E%3Crect fill='%23a8e1f9' x='70' y='50' width='11' height='11'/%3E%3Crect fill='%23a6e0f9' x='90' y='40' width='11' height='11'/%3E%3Crect fill='%23a4e0f8' x='80' y='50' width='11' height='11'/%3E%3Crect fill='%23A2E0F7' x='90' y='50' width='11' height='11'/%3E%3C/g%3E%3C/svg%3E");
+    background-attachment: fixed;
+    background-size: cover;
+    color: #330552;
+}
+
+.tittleContainer{
+    display: flex;
+    justify-content: center;
+}
+
+.tittleText{
+    font-family: 'Fascinate', cursive;
+    font-size: 5em;
+    margin: 5px;
+}
+
+.cardsContainer{
+    display: flex;
+    justify-content: space-around;
+}
+
+label{
+    cursor: pointer;
+}
+
+.card {
+    font-family: 'Dongle', sans-serif;
+    width: 240px;
+    height: 170px;
+    background: #F5EDF7;
+    border-radius: 5px;
+    border: 1px solid #0000ff33;
+    transition: all .2s;
+    box-shadow: 12px 12px 2px 1px #0000ff33;
+}
+   
+.card:hover {
+    box-shadow: -12px 12px 2px -1px #0000ff33;
+}
+
+.selectionTittle{
+    margin: 20px 20px 0px;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 20px;
+}
+
+.cardInput{
+    font-size: 25px;
+}
+
+.bttnContainer{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+button {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    outline: none;
+    border: 0;
+    vertical-align: middle;
+    text-decoration: none;
+    font-family: 'Dongle', sans-serif;
+    font-size: 15px;
+}
+   
+button.bttnOk {
+    font-weight: 600;
+    color: #330552;
+    text-transform: uppercase;
+    padding: 1.25em 2em;
+    background: #fff0f0;
+    border: 2px solid #b18597;
+    border-radius: 0.75em;
+    transform-style: preserve-3d;
+    transition: transform 150ms cubic-bezier(0, 0, 0.58, 1), 
+                background 150ms cubic-bezier(0, 0, 0.58, 1);
+}
+
+button.bttnOk::before {
+    position: absolute;
+    content: '';
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: #f9c4d2;
+    border-radius: inherit;
+    box-shadow: 0 0 0 2px #b18597, 0 0.625em 0 0 #ffe3e2;
+    transform: translate3d(0, 0.75em, -1em);
+    transition: transform 150ms cubic-bezier(0, 0, 0.58, 1), 
+                box-shadow 150ms cubic-bezier(0, 0, 0.58, 1); 
+}
+
+button.bttnOk:hover {
+    background: #ffe9e9;
+    transform: translate(0, 0.25em);
+}
+
+button.bttnOk:hover::before {
+    box-shadow: 0 0 0 2px #b18597, 0 0.5em 0 0 #ffe3e2;
+    transform: translate3d(0, 0.5em, -1em);
+}
+
+button.bttnOk:active {
+    background: #ffe9e9;
+    transform: translate(0em, 0.75em);
+}
+
+button.bttnOk:active::before {
+    box-shadow: 0 0 0 2px #b18597, 0 0 #ffe3e2;
+    transform: translate3d(0, 0, -1em);
+}
+
+.swal2-container.swal2-center>.swal2-popup{
+    font-family: 'Dongle', sans-serif;
+    font-size: 20px;
+    color: #330552;
+    background: #F5EDF7;
+    border-radius: 5px;
+    border: 1px solid #0000ff33;
+    box-shadow: 12px 12px 2px 1px #0000ff33;
+    width: 15em;
+}
+.swal2-image{
+    width: 50%;
+}
+
+.swal2-html-container{
+    font-family: 'Fascinate', cursive;
+    font-size: 30px;
+    margin: 0;
+}
+
+.prevResultadoContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.resultTxt{
+    font-family: 'Dongle', sans-serif;
+    font-size: 30px;
+}
+
+.tragoTxt{
+    font-family: 'Fascinate', cursive;
+    font-size: 35px;
+    margin: 1px;
+}

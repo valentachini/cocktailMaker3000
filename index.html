@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="style.css" rel="stylesheet" type="text/css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Dongle:wght@300&family=Fascinate&display=swap" rel="stylesheet">
+    <title>Document</title>
+</head>
+<body>
+    <main>
+        <section class="tittleSection">
+            <div class="tittleContainer">
+                <p class="tittleText">
+                    CocktailMaker3000
+                </p>
+            </div>
+        </section>
+
+    
+        <section class="cardSection">
+            <div class="cardsContainer"> 
+                <div class="card containerLiquor">
+                    <p class="selectionTittle"> Seleccione su bebida alcoholica:
+                    </p>
+
+                    <div class="cardInputContainer">
+                        <div class="cardInput">
+                            <input class="check" type="radio" id="campari" name="liquor" value="campari">
+                            <label for="campari">Campari</label>                            
+                        </div>
+
+                        <div class="cardInput">
+                            <input class="check" type="radio" id="vodka" name="liquor" value="vodka">
+                            <label for="vodka">Vodka</label>
+                        </div>
+
+                        <div class="cardInput">
+                            <input class="check" type="radio" id="cynar" name="liquor" value="cynar">
+                            <label for="cynar">Cynar</label>
+                        </div>    
+                    </div>
+                </div>
+
+                <div class="card containerSoftDrink">
+                    <p class="selectionTittle"> Seleccione su bebida:
+                    </p>
+                    <div class="cardInputContainer">
+                        <div class="cardInput">
+                            <input class="check" type="radio" id="naranja" name="softDrink" value="naranja">
+                            <label for="naranja">Naranja</label>
+                        </div>
+                        <div class="cardInput">
+                            <input class="check" type="radio" id="tonica" name="softDrink" value="tonica">
+                            <label for="tonica">Tonica</label>
+                        </div>
+                        <div class="cardInput">
+                            <input class="check" type="radio" id="pomelo" name="softDrink" value="pomelo">
+                            <label for="pomelo">Pomelo</label>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card containerGarnish">
+                    <p class="selectionTittle"> Seleccione su garnish:
+                    </p>
+                    <div class="cardInputContainer">
+                        <div class="cardInput">
+                            <input class="check" type="radio" id="rodajaNaranja" name="garnish" value="rodaja naranja">
+                            <label for="rodajaNaranja">Rodaja de naranja</label>
+                        </div>
+                        <div class="cardInput">
+                            <input class="check" type="radio" id="rodajaLimon" name="garnish" value="rodaja limon">
+                            <label for="rodajaLimon">Rodaja de limon</label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+
+            <div class="bttnContainer">
+                <button id="submit" class="bttnOk">Crear trago</button>
+                <button id="resetBttn" class="bttnOk">Reset
+                   
+                </button>
+            </div>
+            
+            <div class="prevResultadoContainer">
+                <p id="showPrev" class="resultTxt"></p>
+            </div>
+            <div id="resultado">                              
+            </div>
+        </section>
+    </main>
+    <script src="data.json"></script>
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="main.js"></script>
+
+</body>
+</html>

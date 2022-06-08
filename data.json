@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Campari Orange",
+        "ingredients":["campari", "naranja", "rodaja naranja"],
+        "img": "media/campari-orange.png"
+    },
+    {
+        "name": "Campari Tonic",
+        "ingredients":["campari", "tonica", "rodaja limon"],
+        "img": "media/campari-tonic.png"
+    },
+    {
+        "name": "Campari Amateur",
+        "ingredients":["campari", "pomelo", "rodaja limon"],
+        "img": "media/campari-pomelo.png"
+    },
+    {
+        "name": "Destornillador",
+        "ingredients":["vodka", "naranja", "rodaja naranja"],
+        "img": "media/vodka-orange.png"
+    },
+    {
+        "name": "Vodka Tonic",
+        "ingredients":["vodka", "tonica", "rodaja limon"],
+        "img": "media/vodka-tonic.png"    
+    },
+    {
+        "name": "Greyhound",
+        "ingredients":["vodka", "pomelo", "rodaja limon"],
+        "img": "media/vodka-pomelo.png"
+    },
+    {
+        "name": "Cynar Julep Orange",
+        "ingredients":["cynar", "naranja", "rodaja naranja"],
+        "img": "media/cynar-orange.png"
+    },
+    {
+        "name": "Cyn Tonic",
+        "ingredients":["cynar", "tonica", "rodaja limon"],
+        "img": "media/cynar-tonic.png"
+    },
+    {
+        "name": "Cynar Julep",
+        "ingredients":["cynar", "pomelo", "rodaja limon"],
+        "img": "media/cynar-pomelo.png"
+    }
+]
