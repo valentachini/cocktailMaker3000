@@ -31,7 +31,7 @@ window.onload = function() {
 
 async function userTragos () {   
     
-    const resp = await fetch('/data.json')
+    const resp = await fetch('https://valentachini.github.io/data.json')
     const data = await resp.json()
     
     var usrResultado = data.filter((trago) => {
@@ -56,7 +56,7 @@ async function userTragos () {
 
 function prevTrago (){    
    if (localStorage.getItem('previousTragoName') && localStorage.getItem('previousTragoImg')) 
-    showPrev.innerHTML = "Tu trago anterior: " + localStorage.getItem('previousTragoName')+ '<img src= '+ localStorage.getItem('previousTragoImg')+' >';
+    showPrev.innerHTML = '<div class="prevCard"><p class="resultTxt">Tu ultima degustacion fue: ' + localStorage.getItem('previousTragoName') + '</p><img src= ' + localStorage.getItem('previousTragoImg')+ '></div>';
 }
 
 prevTrago()
