@@ -31,7 +31,7 @@ window.onload = function() {
 
 async function userTragos () {   
     
-    const resp = await fetch('https://valentachini.github.io/data.json')
+    const resp = await fetch('/api/data.json')
     const data = await resp.json()
     
     var usrResultado = data.filter((trago) => {
